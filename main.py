@@ -297,7 +297,7 @@ for i in range(len(stationary_frames)- 1):
 #         #Pass through each element f the upload
 #         #videos(i), convert to cv2??, can also save as a pandas dataframe??
 #         #Every time you grab a video file, want to analyze that video file. Pass the video file once its converted to the proper format to the object track.py which will have final.pty
-#         #*** need pt and tracking files. Put the yolo tracking folder n that motherfucker- DONE
+#         #*** need pt and tracking files. Put the yolo tracking folder- DONE
 #         #Save the text file for each video i so we have the objects and their ids in each frame
 #
 #
